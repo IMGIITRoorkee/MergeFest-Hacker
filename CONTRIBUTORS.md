@@ -1,4 +1,4 @@
-# How to become a MergeFest Hacker
+# How to become a MergeFest Hacker - Shreyeahhh-03
 
 ## Basic git commands
 
